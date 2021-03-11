@@ -1,0 +1,15 @@
+{
+  "name": "npm-demo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Balázs Anett <balanett92@gmail.com> (https://github.com/Balanett)",
+  "license": "MIT",
+  "dependencies": {
+    "accent-folding": "^1.0.3",
+    "chalk": "^4.1.0"
+  }
+}
